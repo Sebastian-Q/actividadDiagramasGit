@@ -2,3 +2,4 @@ Creación del controlador
 Hola mundo
 
 Juego favorito del 2025
+Clair Obscur: Expidition 33
